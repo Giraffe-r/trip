@@ -21,7 +21,7 @@ npm run build --report
 
 ## Display
 
-![Display]([https://trip-240207.oss-cn-beijing.aliyuncs.com/20240207_220321-ezgif.com-video-to-gif-converter.gif](https://trip-240207.oss-cn-beijing.aliyuncs.com/%E5%9C%B0%E7%90%83.png)https://trip-240207.oss-cn-beijing.aliyuncs.com/%E5%9C%B0%E7%90%83.png)
+![Display](https://trip-240207.oss-cn-beijing.aliyuncs.com/20240207_220321-ezgif.com-video-to-gif-converter.gif](https://trip-240207.oss-cn-beijing.aliyuncs.com/%E5%9C%B0%E7%90%83.png)https://trip-240207.oss-cn-beijing.aliyuncs.com/%E5%9C%B0%E7%90%83.png](https://github.com/Giraffe-r/trip/blob/main/public/images/20240207_220321.mp4)https://github.com/Giraffe-r/trip/blob/main/public/images/20240207_220321.mp4)
 
 ## License
 
