@@ -4,7 +4,7 @@
 
 ```bash
 # Clone project
-git clone https://github.com/Giraffe-r/tripFrontend.git
+git clone https://github.com/Giraffe-r/trip.git
 
 # Install dependencies
 npm install
