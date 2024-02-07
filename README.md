@@ -21,7 +21,7 @@ npm run build --report
 
 ## Display
 
-![Display](https://github.com/Giraffe-r/trip/blob/main/public/images/20240207_220321.mp4)
+![Display](https://github.com/Giraffe-r/trip/blob/main/public/images/20240207_220321.gif)
 
 ## License
 
